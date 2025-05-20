@@ -16,8 +16,8 @@
 Thumbs.db
 
 # Datos grandes (>50MB)
-*.csv
-*.rds
+#*.csv
+#*.rds
 *.feather
 
 # Carpetas específicas para ignorar
