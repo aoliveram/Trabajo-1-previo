@@ -6,7 +6,7 @@
 *.Rapp.history
 
 # Outputs generados
-*.html
+#*.html
 *.pdf
 *.docx
 *.xlsx
